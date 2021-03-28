@@ -1,5 +1,3 @@
-//import react not needed anymore after version 17
-
 import MessageForm from './MessageForm';
 import MyMessage from './MyMessage';
 import TheirMessage from './TheirMessage';
